@@ -1,0 +1,15 @@
+C:\sisharp\tetris\tetris22\tetris22\bin\Debug\net8.0\tetris22.exe
+C:\sisharp\tetris\tetris22\tetris22\bin\Debug\net8.0\tetris22.deps.json
+C:\sisharp\tetris\tetris22\tetris22\bin\Debug\net8.0\tetris22.runtimeconfig.json
+C:\sisharp\tetris\tetris22\tetris22\bin\Debug\net8.0\tetris22.dll
+C:\sisharp\tetris\tetris22\tetris22\bin\Debug\net8.0\tetris22.pdb
+C:\sisharp\tetris\tetris22\tetris22\obj\Debug\net8.0\tetris22.GeneratedMSBuildEditorConfig.editorconfig
+C:\sisharp\tetris\tetris22\tetris22\obj\Debug\net8.0\tetris22.AssemblyInfoInputs.cache
+C:\sisharp\tetris\tetris22\tetris22\obj\Debug\net8.0\tetris22.AssemblyInfo.cs
+C:\sisharp\tetris\tetris22\tetris22\obj\Debug\net8.0\tetris22.csproj.CoreCompileInputs.cache
+C:\sisharp\tetris\tetris22\tetris22\obj\Debug\net8.0\tetris22.sourcelink.json
+C:\sisharp\tetris\tetris22\tetris22\obj\Debug\net8.0\tetris22.dll
+C:\sisharp\tetris\tetris22\tetris22\obj\Debug\net8.0\refint\tetris22.dll
+C:\sisharp\tetris\tetris22\tetris22\obj\Debug\net8.0\tetris22.pdb
+C:\sisharp\tetris\tetris22\tetris22\obj\Debug\net8.0\tetris22.genruntimeconfig.cache
+C:\sisharp\tetris\tetris22\tetris22\obj\Debug\net8.0\ref\tetris22.dll
