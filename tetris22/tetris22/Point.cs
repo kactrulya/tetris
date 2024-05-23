@@ -8,14 +8,48 @@ namespace tetris22
 {
     class Point
     {
-        public int x;
-        public int y;
-        public char c;
+        public int X { get; set; }
+        public int Y {  get; set; }
+        public char C { get; set; }
 
         public void Draw()
         {
-            Console.SetCursorPosition(x, y);
-            Console.WriteLine(c);
+            DrawerProvier.Drawer.DrawPoint(X, Y);
+        }
+
+        internal void Move(Direction dir)
+        {
+            switch (dir)
+            {
+                case Direction.DOWN:
+                    Y += 1;
+                    break;
+                case Direction.LEFT:
+                    X -= 1;
+                    break;
+                case Direction.RIGHT:
+                    X += 1;
+                    break;
+            }
+        }
+
+        internal void Hide()
+        {
+            DrawerProvier.Drawer.HidePoint(X, Y);
+        }
+
+        public Point(Point p)
+        {
+            X = p.X;
+            Y = p.Y;
+            C = p.C;
+        }
+
+        public Point(int a, int b, char sym)
+        {
+            X = a;
+            Y = b;
+            C = sym;
         }
     }
 }
